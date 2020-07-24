@@ -9,6 +9,7 @@
 
 # Virtualenv
 /.venv/
+/TDD_venv/
 
 # Regular Python bytecode file
 *.pyc
